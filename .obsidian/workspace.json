@@ -98,9 +98,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79d1f471dc87452c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Exploitation Basics/Network Services/Task 2 - Understanding SMB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c54be25544ad21a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Exploitation Basics/Network Services/Task 3 - Enumerating SMB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12a1af0806e6f050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Exploitation Basics/Network Services/Task 4 - Exploiting SMB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -166,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Network Exploitation Basics/NMap/Task 14 Practical - Determine the number of ports open.md",
+                "file": "TryHackMe/Network Exploitation Basics/Network Services/Task 4 - Exploiting SMB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Network Exploitation Basics/NMap/Task 14 Practical - Determine the number of ports open.md",
+                "file": "TryHackMe/Network Exploitation Basics/Network Services/Task 4 - Exploiting SMB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Network Exploitation Basics/NMap/Task 14 Practical - Determine the number of ports open.md"
+                "file": "TryHackMe/Network Exploitation Basics/Network Services/Task 4 - Exploiting SMB.md"
               }
             }
           }
@@ -217,17 +253,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b738587dfef44cdc",
+  "active": "12a1af0806e6f050",
   "lastOpenFiles": [
-    "TryHackMe/Network Exploitation Basics/NMap/Task 13 - Firewall Evasion.md",
-    "TryHackMe/Network Exploitation Basics/NMap/Task 14 Practical - Determine the number of ports open.md",
+    "TryHackMe/Network Exploitation Basics/Network Services/Task 3 - Enumerating SMB.md",
+    "TryHackMe/Network Exploitation Basics/Network Services/Task 2 - Understanding SMB.md",
     "TryHackMe/Network Exploitation Basics/NMap/Task 12 - Searching for Scripts.md",
     "TryHackMe/Network Exploitation Basics/NMap/Task 8 -  NULL, FIN and Xmas.md",
+    "TryHackMe/Network Exploitation Basics/NMap/Task 14 Practical - Determine the number of ports open.md",
+    "TryHackMe/Network Exploitation Basics/NMap/Task 13 - Firewall Evasion.md",
     "SIEM setup/V1.1/Requirements.md",
     "SIEM setup/Introduction.md",
     "templates/New post.md",
-    "TryHackMe/Network Exploitation Basics/NMap/Task 5 - TCP Connect Scans.md",
-    "TryHackMe/NMap/Task3 - NMap Switches.md",
-    "TryHackMe/learning Linux fundimentals/Linux Fundamentals P3.md"
+    "TryHackMe/Network Exploitation Basics/NMap/Task 5 - TCP Connect Scans.md"
   ]
 }
