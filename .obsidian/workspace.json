@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2389fde16d38c0d3",
+            "id": "75098cb5e5393930",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,27 +16,111 @@
             }
           },
           {
-            "id": "6ca8a7a2d9ce1ca6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "352bd934aa5bcbbd",
+            "id": "a9e47d32fa1dbaca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Managing AAD/Introduction.md",
+                "file": "templates/New post.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "acc20a911c7b9446",
+            "id": "aaccb5caf5680e89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Exploitation Basics/NMap/Task 8 -  NULL, FIN and Xmas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26407a61d8a7f182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIEM setup/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6da638f0b0d2e84b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIEM setup/V1.1/Requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f637300dd3ae55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Exploitation Basics/NMap/Task 12 - Searching for Scripts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d186810c1e873e6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Exploitation Basics/NMap/Task 12 - Searching for Scripts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d70d9fa346509136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Exploitation Basics/NMap/Task 14 Practical - Determine the number of ports open.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79d1f471dc87452c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Exploitation Basics/Network Services/Task 2 - Understanding SMB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c54be25544ad21a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "12a1af0806e6f050",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -165,17 +249,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "acc20a911c7b9446",
+  "active": "12a1af0806e6f050",
   "lastOpenFiles": [
-    "Managing AAD/Introduction.md",
-    "Managing AAD/User and Group Management.md",
-    "Cyber Security Essentials/Protecting the Company/Vunribilites, Patching, Updates.md",
-    "Cyber Security Essentials/Protecting the Company/Attackers in Physical Space.md",
-    "Cyber Security Essentials/Protecting the Company/Whats the cyber problem.md",
-    "TryHackMe/Network Exploitation Basics/Network Services/Task 7 - Exploiting Telnet.md",
-    "TryHackMe/Network Exploitation Basics/Network Services/Task 6  - Enumerating Telnet.md",
+    "TryHackMe/Network Exploitation Basics/Network Services/Task 3 - Enumerating SMB.md",
+    "TryHackMe/Network Exploitation Basics/Network Services/Task 4 - Exploiting SMB.md",
+    "TryHackMe/Network Exploitation Basics/Network Services/Task 2 - Understanding SMB.md",
+    "TryHackMe/Network Exploitation Basics/NMap/Task 12 - Searching for Scripts.md",
+    "TryHackMe/Network Exploitation Basics/NMap/Task 8 -  NULL, FIN and Xmas.md",
     "TryHackMe/Network Exploitation Basics/NMap/Task 14 Practical - Determine the number of ports open.md",
-    "TryHackMe/Network Exploitation Basics/Network Services/Task 5 - Telnet.md",
-    "TryHackMe/Network Exploitation Basics/Network Services/Task 4 - Exploiting SMB.md"
+    "TryHackMe/Network Exploitation Basics/NMap/Task 13 - Firewall Evasion.md",
+    "SIEM setup/V1.1/Requirements.md",
+    "SIEM setup/Introduction.md",
+    "templates/New post.md"
   ]
 }
