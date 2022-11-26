@@ -29,7 +29,9 @@ HTTP and HTTPS are used with HTTPS preferred as it requires the that it is encry
 
 ### What is AAD
 - A flat structure  allowing user and groups to be created
-- Basic AD service features
+- Basic AD service features not the same as on windows server. It is geared towards the cloud
+- No Kerberos on AAD as there is Internet communications
+- Management is done through Portal and Powershell
 
 ## Utilizing Azure AD instances
 ## User and Group Management
