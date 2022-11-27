@@ -4,87 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1f795aa50b8bd5da",
+        "id": "f47e4427345d6f0e",
         "type": "tabs",
         "children": [
           {
-            "id": "2389fde16d38c0d3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6ca8a7a2d9ce1ca6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "352bd934aa5bcbbd",
+            "id": "35c4ffc229854b87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Managing AAD/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acc20a911c7b9446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Network Exploitation Basics/Network Services/Task 7 - Exploiting Telnet (Reverse Shell).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba9be5bd14251a4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Network Exploitation Basics/Network Services/Task 8 - Understanding FTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9cad9078628d500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Network Exploitation Basics/Network Services/Task 9 enumerating FTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "748489e5ff6fead7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Network Exploitation Basics/Network Services/Task 10 -  Exploiting FTP (MITM).md",
+                "file": "TryHackMe/Network Exploitation Basics/Network Services 2/Task 3 - Enumerating NFS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Network Exploitation Basics/Network Services/Task 10 -  Exploiting FTP (MITM).md",
+                "file": "TryHackMe/Network Exploitation Basics/Network Services 2/Task 3 - Enumerating NFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Network Exploitation Basics/Network Services/Task 10 -  Exploiting FTP (MITM).md",
+                "file": "TryHackMe/Network Exploitation Basics/Network Services 2/Task 3 - Enumerating NFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Network Exploitation Basics/Network Services/Task 10 -  Exploiting FTP (MITM).md"
+                "file": "TryHackMe/Network Exploitation Basics/Network Services 2/Task 3 - Enumerating NFS.md"
               }
             }
           }
@@ -201,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "748489e5ff6fead7",
+  "active": "35c4ffc229854b87",
   "lastOpenFiles": [
+    "Managing AAD/Introduction.md",
+    "TryHackMe/Network Exploitation Basics/Network Services/Task 7 - Exploiting Telnet (Reverse Shell).md",
+    "TryHackMe/Network Exploitation Basics/Network Services/Task 8 - Understanding FTP.md",
     "TryHackMe/Network Exploitation Basics/Network Services/Task 9 enumerating FTP.md",
     "TryHackMe/Network Exploitation Basics/Network Services/Task 10 -  Exploiting FTP (MITM).md",
-    "TryHackMe/Network Exploitation Basics/Network Services/Task 8 - Understanding FTP.md",
+    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 2 - Understanding NFS (Network File System).md",
+    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 3 - Enumerating NFS.md",
     "TryHackMe/Network Exploitation Basics/NMap/Task 12 - Searching for Scripts.md",
     "TryHackMe/Network Exploitation Basics/NMap/Task 7 - UDP Scans.md",
-    "TryHackMe/Network Exploitation Basics/NMap/Task 6 - SYN Scans.md",
-    "TryHackMe/Network Exploitation Basics/NMap/Task 5 - TCP Connect Scans.md",
-    "TryHackMe/Network Exploitation Basics/NMap/Task 14 Practical - Determine the number of ports open.md",
-    "TryHackMe/Network Exploitation Basics/NMap/Task 13 - Firewall Evasion.md",
-    "TryHackMe/Network Exploitation Basics/NMap/Task 8 -  NULL, FIN and Xmas.md"
+    "TryHackMe/Network Exploitation Basics/NMap/Task 6 - SYN Scans.md"
   ]
 }
