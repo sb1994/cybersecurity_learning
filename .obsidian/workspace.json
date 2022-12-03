@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35c4ffc229854b87",
+            "id": "1aba1574ca85d709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Network Exploitation Basics/Network Services 2/Task 3 - Enumerating NFS.md",
+                "file": "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Burp Suite the basics/Task 2 - What is Burp Suite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90d7c79c76291170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Burp Suite the basics/Task  3 - Features of Burp Community.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82c6974669c4e026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Advent Of Cyber 22/Task 2 - Log Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Network Exploitation Basics/Network Services 2/Task 3 - Enumerating NFS.md",
+                "file": "TryHackMe/Advent Of Cyber 22/Task 2 - Log Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Network Exploitation Basics/Network Services 2/Task 3 - Enumerating NFS.md",
+                "file": "TryHackMe/Advent Of Cyber 22/Task 2 - Log Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Network Exploitation Basics/Network Services 2/Task 3 - Enumerating NFS.md"
+                "file": "TryHackMe/Advent Of Cyber 22/Task 2 - Log Analysis.md"
               }
             }
           }
@@ -136,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35c4ffc229854b87",
+  "active": "82c6974669c4e026",
   "lastOpenFiles": [
-    "Managing AAD/Introduction.md",
-    "TryHackMe/Network Exploitation Basics/Network Services/Task 7 - Exploiting Telnet (Reverse Shell).md",
-    "TryHackMe/Network Exploitation Basics/Network Services/Task 8 - Understanding FTP.md",
+    "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Burp Suite the basics/Task  3 - Features of Burp Community.md",
+    "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Burp Suite the basics/Task 2 - What is Burp Suite.md",
+    "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Burp Suite the basics/Task 1 - Outline.md",
+    "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Introduction to Burp Suite.md",
+    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 10 - Exploiting MySQL.md",
+    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 9 - Enumerating MySQL.md",
     "TryHackMe/Network Exploitation Basics/Network Services/Task 9 enumerating FTP.md",
-    "TryHackMe/Network Exploitation Basics/Network Services/Task 10 -  Exploiting FTP (MITM).md",
-    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 2 - Understanding NFS (Network File System).md",
-    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 3 - Enumerating NFS.md",
-    "TryHackMe/Network Exploitation Basics/NMap/Task 12 - Searching for Scripts.md",
-    "TryHackMe/Network Exploitation Basics/NMap/Task 7 - UDP Scans.md",
-    "TryHackMe/Network Exploitation Basics/NMap/Task 6 - SYN Scans.md"
+    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 8 - Understanding MySQL.md",
+    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 7 - Exploiting SMTP.md",
+    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 6 - Enuemerating SMTP.md"
   ]
 }
