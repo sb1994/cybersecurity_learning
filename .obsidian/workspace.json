@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f13eae4b16f0406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Advent Of Cyber 22/Task 8  - OSINT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 2 - Log Analysis.md",
+                "file": "TryHackMe/Advent Of Cyber 22/Task 8  - OSINT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 2 - Log Analysis.md",
+                "file": "TryHackMe/Advent Of Cyber 22/Task 8  - OSINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 2 - Log Analysis.md"
+                "file": "TryHackMe/Advent Of Cyber 22/Task 8  - OSINT.md"
               }
             }
           }
@@ -161,8 +173,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "82c6974669c4e026",
+  "active": "7f13eae4b16f0406",
   "lastOpenFiles": [
+    "TryHackMe/Advent Of Cyber 22/Task 2 - Log Analysis.md",
     "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Burp Suite the basics/Task  3 - Features of Burp Community.md",
     "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Burp Suite the basics/Task 2 - What is Burp Suite.md",
     "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Burp Suite the basics/Task 1 - Outline.md",
@@ -171,7 +184,6 @@
     "TryHackMe/Network Exploitation Basics/Network Services 2/Task 9 - Enumerating MySQL.md",
     "TryHackMe/Network Exploitation Basics/Network Services/Task 9 enumerating FTP.md",
     "TryHackMe/Network Exploitation Basics/Network Services 2/Task 8 - Understanding MySQL.md",
-    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 7 - Exploiting SMTP.md",
-    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 6 - Enuemerating SMTP.md"
+    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 7 - Exploiting SMTP.md"
   ]
 }
