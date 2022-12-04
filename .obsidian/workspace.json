@@ -8,48 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1aba1574ca85d709",
+            "id": "267a881dae7e9f9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Burp Suite the basics/Task 2 - What is Burp Suite.md",
+                "file": "TryHackMe/OWASP Top 10 vulnerabilities/Task 27 - Components With Known Vulnerabilities Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "90d7c79c76291170",
+            "id": "e24f9a6554c5cc86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Burp Suite the basics/Task  3 - Features of Burp Community.md",
+                "file": "TryHackMe/OWASP Top 10 vulnerabilities/Task 28 - Components With Known Vulnerabilities - Exploit.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "82c6974669c4e026",
+            "id": "9aa76ab6ef5cedf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 2 - Log Analysis.md",
+                "file": "TryHackMe/OWASP Top 10 vulnerabilities/Task 29 - Components with Known Vunerabilites - SEV 9.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7f13eae4b16f0406",
+            "id": "06fe6edf7487bb10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 8  - OSINT.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 8  - OSINT.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 8  - OSINT.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 8  - OSINT.md"
+                "file": "README.md"
               }
             }
           }
@@ -173,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f13eae4b16f0406",
+  "active": "06fe6edf7487bb10",
   "lastOpenFiles": [
-    "TryHackMe/Advent Of Cyber 22/Task 2 - Log Analysis.md",
-    "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Burp Suite the basics/Task  3 - Features of Burp Community.md",
-    "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Burp Suite the basics/Task 2 - What is Burp Suite.md",
-    "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Burp Suite the basics/Task 1 - Outline.md",
-    "TryHackMe/Network Exploitation Basics/Web Hacking Fundementals/Introduction to Burp Suite.md",
-    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 10 - Exploiting MySQL.md",
-    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 9 - Enumerating MySQL.md",
-    "TryHackMe/Network Exploitation Basics/Network Services/Task 9 enumerating FTP.md",
-    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 8 - Understanding MySQL.md",
-    "TryHackMe/Network Exploitation Basics/Network Services 2/Task 7 - Exploiting SMTP.md"
+    "TryHackMe/README.md",
+    "TryHackMe/OWASP Top 10 vulnerabilities/Task 6 - Broken Authentication..md",
+    "TryHackMe/OWASP Top 10 vulnerabilities/Task 30 - Insufficient Logging and Monitoring.md",
+    "TryHackMe/OWASP Top 10 vulnerabilities/Task 29 - Components with Known Vunerabilites - SEV 9.md",
+    "TryHackMe/OWASP Top 10 vulnerabilities/Task 28 - Components With Known Vulnerabilities - Exploit.md",
+    "TryHackMe/OWASP Top 10 vulnerabilities/Task 27 - Components With Known Vulnerabilities Intro.md",
+    "TryHackMe/OWASP Top 10 vulnerabilities/Task 26 - Insecure Deserialization - Code Execution - SEV 8.md",
+    "TryHackMe/OWASP Top 10 vulnerabilities/Task 24 -  Insecure Deserialization - Cookies.md",
+    "TryHackMe/OWASP Top 10 vulnerabilities/Task 21 - Insecure Deserialization - SEV 8.md",
+    "TryHackMe/OWASP Top 10 vulnerabilities/Task 20 - XSS -Cross site scripting.md"
   ]
 }
