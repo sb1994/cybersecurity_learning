@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task 16 -  Memory Forensics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66734d698ae71584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "TryHackMe/Advent Of Cyber 22/Task 17 - Malware Analysis.md",
                 "mode": "source",
                 "source": false
@@ -44,15 +32,19 @@
             }
           },
           {
-            "id": "5c5cb823865502b4",
+            "id": "558e3b3b4478db76",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Advent Of Cyber 22/Task 18 - Packet Analysis with Pcap.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TryHackMe/Advent Of Cyber 22/Task 18 - Packet Analysis with Pcap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TryHackMe/Advent Of Cyber 22/Task 18 - Packet Analysis with Pcap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TryHackMe/Advent Of Cyber 22/Task 18 - Packet Analysis with Pcap.md"
+              }
             }
           }
         ]
@@ -165,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b738587dfef44cdc",
+  "active": "558e3b3b4478db76",
   "lastOpenFiles": [
     "TryHackMe/Advent Of Cyber 22/Task 17 - Malware Analysis.md",
     "Task 16 -  Memory Forensics.md",
+    "TryHackMe/Advent Of Cyber 22/Task 18 - Packet Analysis with Pcap.md",
     "TryHackMe/Advent Of Cyber 22/Task 10 - Ram indexing  - Hacking a Game.md",
     "TryHackMe/Advent Of Cyber 22/Task 14 - Pivoting.md",
     "TryHackMe/Advent Of Cyber 22/Task 13- Smart Contract.md",
     "TryHackMe/Advent Of Cyber 22/Task 11 - Email Analysis - Phishing.md",
     "TryHackMe/OWASP Top 10 vulnerabilities/Task 24 -  Insecure Deserialization - Cookies.md",
     "TryHackMe/OWASP Top 10 vulnerabilities/Task 26 - Insecure Deserialization - Code Execution - SEV 8.md",
-    "TryHackMe/OWASP Top 10 vulnerabilities/Task 27 - Components With Known Vulnerabilities Intro.md",
-    "TryHackMe/OWASP Top 10 vulnerabilities/Task 28 - Components With Known Vulnerabilities - Exploit.md"
+    "TryHackMe/OWASP Top 10 vulnerabilities/Task 27 - Components With Known Vulnerabilities Intro.md"
   ]
 }
