@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b773055fb8748d0",
+            "id": "2f450d36e53a33de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 14 - Pivoting.md",
+                "file": "TryHackMe/Advent Of Cyber 22/Task 20 - Secure Coding - Input Validation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3cb0956954fb74ff",
+            "id": "e89e908af727ba53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 17 - Malware Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "558e3b3b4478db76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 18 - Packet Analysis with Pcap.md",
+                "file": "TryHackMe/Advent Of Cyber 22/Task 20 - Secure Coding - Input Validation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 18 - Packet Analysis with Pcap.md",
+                "file": "TryHackMe/Advent Of Cyber 22/Task 20 - Secure Coding - Input Validation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 18 - Packet Analysis with Pcap.md",
+                "file": "TryHackMe/Advent Of Cyber 22/Task 20 - Secure Coding - Input Validation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 18 - Packet Analysis with Pcap.md"
+                "file": "TryHackMe/Advent Of Cyber 22/Task 20 - Secure Coding - Input Validation.md"
               }
             }
           }
@@ -161,17 +149,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "558e3b3b4478db76",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e89e908af727ba53",
   "lastOpenFiles": [
-    "TryHackMe/Advent Of Cyber 22/Task 17 - Malware Analysis.md",
     "Task 16 -  Memory Forensics.md",
+    "TryHackMe/Advent Of Cyber 22/Task 20 - Secure Coding - Input Validation.md",
+    "TryHackMe/Advent Of Cyber 22/Task 19 - Web Application.md",
     "TryHackMe/Advent Of Cyber 22/Task 18 - Packet Analysis with Pcap.md",
+    "TryHackMe/Advent Of Cyber 22/Task 17 - Malware Analysis.md",
     "TryHackMe/Advent Of Cyber 22/Task 10 - Ram indexing  - Hacking a Game.md",
     "TryHackMe/Advent Of Cyber 22/Task 14 - Pivoting.md",
     "TryHackMe/Advent Of Cyber 22/Task 13- Smart Contract.md",
     "TryHackMe/Advent Of Cyber 22/Task 11 - Email Analysis - Phishing.md",
-    "TryHackMe/OWASP Top 10 vulnerabilities/Task 24 -  Insecure Deserialization - Cookies.md",
-    "TryHackMe/OWASP Top 10 vulnerabilities/Task 26 - Insecure Deserialization - Code Execution - SEV 8.md",
-    "TryHackMe/OWASP Top 10 vulnerabilities/Task 27 - Components With Known Vulnerabilities Intro.md"
+    "TryHackMe/OWASP Top 10 vulnerabilities/Task 24 -  Insecure Deserialization - Cookies.md"
   ]
 }
