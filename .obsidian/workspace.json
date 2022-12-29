@@ -11,12 +11,8 @@
             "id": "2f450d36e53a33de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 20 - Secure Coding - Input Validation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,26 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 20 - Secure Coding - Input Validation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07a7c94641b79417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection.md",
+                "file": "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection and prepared statments.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection.md",
+                "file": "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection and prepared statments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection.md",
+                "file": "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection and prepared statments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection.md"
+                "file": "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection and prepared statments.md"
               }
             }
           }
@@ -171,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07a7c94641b79417",
+  "active": "e89e908af727ba53",
   "lastOpenFiles": [
     "TryHackMe/Advent Of Cyber 22/Task 20 - Secure Coding - Input Validation.md",
-    "Task 16 -  Memory Forensics.md",
-    "TryHackMe/Advent Of Cyber 22/Task 19 - Web Application.md",
-    "TryHackMe/Advent Of Cyber 22/Task 18 - Packet Analysis with Pcap.md",
     "TryHackMe/Advent Of Cyber 22/Task 17 - Malware Analysis.md",
+    "TryHackMe/Advent Of Cyber 22/Task 18 - Packet Analysis with Pcap.md",
+    "TryHackMe/Advent Of Cyber 22/Task 19 - Web Application.md",
+    "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection and prepared statments.md",
+    "TryHackMe/Advent Of Cyber 22/Task 21.md",
+    "TryHackMe/Advent Of Cyber 22/Task 21 - SQLi access and injection.md",
+    "Task 16 -  Memory Forensics.md",
     "TryHackMe/Advent Of Cyber 22/Task 10 - Ram indexing  - Hacking a Game.md",
-    "TryHackMe/Advent Of Cyber 22/Task 14 - Pivoting.md",
-    "TryHackMe/Advent Of Cyber 22/Task 13- Smart Contract.md",
-    "TryHackMe/Advent Of Cyber 22/Task 11 - Email Analysis - Phishing.md",
-    "TryHackMe/OWASP Top 10 vulnerabilities/Task 24 -  Insecure Deserialization - Cookies.md"
+    "TryHackMe/Advent Of Cyber 22/Task 14 - Pivoting.md"
   ]
 }

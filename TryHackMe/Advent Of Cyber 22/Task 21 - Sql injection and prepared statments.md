@@ -251,3 +251,31 @@ $toys_rs=mysqli_stmt_get_result($stmt);
 ```
 
 Be sure to save your changes by using `CTRL+S`. If you ask the elves to recheck the app, they should now tell you the vulnerability has been fixed and give you the second flag.
+
+----
+1. Make better input validation below is an example of bad input validation
+```php
+$query="select * from users where id=".$_GET['id'];
+
+```
+Below is an example of how to create correct validation
+```php
+$query="select * from users where id=".intval($_GET['id']);
+
+```
+Found the flag once the flags were checked
+Flag1: THM{McCode, Elf McCode}
+
+
+2. Creating prepared statements for login of email and password 
+```php
+	$username=$_POST['username'];
+	$password=$_POST['password'];
+	$query="select * from users where username=? and password=?";
+
+	$stmt = mysqli_prepare($db, $query);
+	mysqli_stmt_bind_param($stmt, 'ss', $username, $password);
+	mysqli_stmt_execute($stmt);
+	$users_rs=mysqli_stmt_get_result($stmt);
+```
+&#9888; Good practice to do all SQL statments using Prepared Statements
