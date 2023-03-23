@@ -8,55 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f450d36e53a33de",
+            "id": "cf74c839c8a653cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 20 - Secure Coding - Input Validation.md",
+                "file": "HackTheBox/Starting Point/Redeemer - Redis Database exploitation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e89e908af727ba53",
+            "id": "374ca5135b187a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 20 - Secure Coding - Input Validation.md",
+                "file": "HackTheBox/Starting Point/Explosion - Enter using RDP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "07a7c94641b79417",
+            "id": "2c455418fd5d3a67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection and prepared statments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d681275ba2e4aaad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 22 - SQL Filtering.md",
+                "file": "HackTheBox/Starting Point/Mongod - Hacking Mongo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 22 - SQL Filtering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 22 - SQL Filtering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TryHackMe/Advent Of Cyber 22/Task 22 - SQL Filtering.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,17 +167,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d681275ba2e4aaad",
+  "active": "b738587dfef44cdc",
   "lastOpenFiles": [
-    "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection and prepared statments.md",
-    "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection.md",
-    "TryHackMe/Advent Of Cyber 22/Task 20 - Secure Coding - Input Validation.md",
-    "Task 16 -  Memory Forensics.md",
+    "HackTheBox/Starting Point/Synced -.md",
+    "HackTheBox/Starting Point/Redeemer - Redis Database exploitation.md",
+    "HackTheBox/Starting Point/Mongod - Hacking Mongo.md",
+    "HackTheBox/Starting Point/Preignition - Dir Brute Forcing And Password Brute Forcing.md",
+    "HackTheBox/assets/Pasted image 20230323002545.png",
+    "HackTheBox/Starting Point/Fawn - Accesing FTP.md",
+    "HackTheBox/Starting Point/Explosion - Enter using RDP.md",
+    "HackTheBox/assets/Pasted image 20230323000103.png",
+    "HackTheBox/assets",
+    "HackTheBox/assets/Pasted image 20230323001520.png",
+    "HackTheBox/assets/Pasted image 20230323000107.png",
+    "HackTheBox/Starting Point/Dancing - SMB enumeration.md",
+    "SIEM setup/Introduction.md",
+    "SIEM setup/V1.1/Database.md",
+    "assets/Pasted image 20221203191150.png",
+    "HackTheBox/Starting Point/Untitled 1.md",
+    "HackTheBox/Starting Point",
+    "HackTheBox",
+    "SIEM setup/V1.1/Requirements.md",
+    "TryHackMe/Network Exploitation Basics/NMap/Task 3 - NMap Switches.md",
+    "TryHackMe/Advent Of Cyber 22/Task 9 - Port scanning.md",
+    "TryHackMe/Advent Of Cyber 22/Task 8  - OSINT.md",
+    "TryHackMe/Network Exploitation Basics/NMap/Task 4 - Overview.md",
     "TryHackMe/Advent Of Cyber 22/Task 19 - Web Application.md",
-    "TryHackMe/Advent Of Cyber 22/Task 18 - Packet Analysis with Pcap.md",
-    "TryHackMe/Advent Of Cyber 22/Task 17 - Malware Analysis.md",
-    "TryHackMe/Advent Of Cyber 22/Task 10 - Ram indexing  - Hacking a Game.md",
-    "TryHackMe/Advent Of Cyber 22/Task 14 - Pivoting.md",
-    "TryHackMe/Advent Of Cyber 22/Task 13- Smart Contract.md"
+    "TryHackMe/Advent Of Cyber 22/Task 20 - Secure Coding - Input Validation.md",
+    "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection and prepared statments.md",
+    "TryHackMe/Advent Of Cyber 22/Task 22 - SQL Filtering.md"
   ]
 }
