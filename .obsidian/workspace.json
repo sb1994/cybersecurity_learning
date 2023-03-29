@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf74c839c8a653cb",
+            "id": "1edea06c4d2d2c88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Starting Point/Responder - Localfile Inclusion and John the Ripper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6e0b34876ea7bec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HackTheBox/Starting Point/Included -.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c79007fa56da55db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HackTheBox/Starting Point/Crocodile - DIR and Password Brute force.md",
+                "file": "HackTheBox/Starting Point/Bike-.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/Starting Point/Included -.md",
+                "file": "HackTheBox/Starting Point/Bike-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HackTheBox/Starting Point/Included -.md",
+                "file": "HackTheBox/Starting Point/Bike-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HackTheBox/Starting Point/Included -.md"
+                "file": "HackTheBox/Starting Point/Bike-.md"
               }
             }
           }
@@ -171,34 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b738587dfef44cdc",
+  "active": "1edea06c4d2d2c88",
   "lastOpenFiles": [
-    "HackTheBox/Starting Point/Dancing - SMB enumeration.md",
-    "HackTheBox/Starting Point/Crocodile - DIR and Password Brute force.md",
+    "HackTheBox/Starting Point/Fawn - Accesing FTP.md",
     "HackTheBox/Starting Point/Mongod - Hacking Mongo.md",
     "HackTheBox/Starting Point/Preignition - Dir Brute Forcing And Password Brute Forcing.md",
-    "HackTheBox/Starting Point/Redeemer - Redis Database exploitation.md",
     "HackTheBox/Starting Point/Responder - Localfile Inclusion and John the Ripper.md",
     "HackTheBox/Starting Point/Sequel - SQL Injection 2.md",
-    "HackTheBox/Starting Point/Included -.md",
-    "HackTheBox/Starting Point/Appointment  - SQL Injection.md",
-    "HackTheBox/Starting Point/Three -.md",
-    "HackTheBox/assets/Pasted image 20230323204004.png",
-    "HackTheBox/assets/Pasted image 20230323200909.png",
-    "HackTheBox/assets/Pasted image 20230323201751.png",
-    "HackTheBox/assets/Pasted image 20230323200518.png",
-    "HackTheBox/Starting Point/Fawn - Accesing FTP.md",
+    "HackTheBox/Starting Point/Bike-.md",
+    "Pasted image 20230325143531.png",
     "HackTheBox/Starting Point/Explosion - Enter using RDP.md",
+    "HackTheBox/Starting Point/Ignition - NMAP, GoBuster, Password Recon(Most Popular 2023).md",
+    "Pasted image 20230325142011.png",
+    "Pasted image 20230325133602.png",
+    "Pasted image 20230325132459.png",
+    "HackTheBox/Starting Point/Included -.md",
+    "HackTheBox/assets/Pasted image 20230323204004.png",
+    "HackTheBox/assets/Pasted image 20230323201751.png",
+    "HackTheBox/assets/Pasted image 20230323200909.png",
+    "HackTheBox/assets/Pasted image 20230323200518.png",
     "HackTheBox/assets/Pasted image 20230323180934.png",
+    "HackTheBox/Starting Point/Crocodile - DIR and Password Brute force.md",
+    "HackTheBox/Starting Point/Appointment  - SQL Injection.md",
     "HackTheBox/Starting Point/Synced -.md",
+    "HackTheBox/Starting Point/Redeemer - Redis Database exploitation.md",
     "HackTheBox/assets/Pasted image 20230323002545.png",
-    "HackTheBox/assets/Pasted image 20230323000103.png",
     "HackTheBox/assets",
-    "HackTheBox/assets/Pasted image 20230323001520.png",
-    "HackTheBox/assets/Pasted image 20230323000107.png",
+    "HackTheBox/Starting Point/Dancing - SMB enumeration.md",
     "SIEM setup/Introduction.md",
     "SIEM setup/V1.1/Database.md",
-    "assets/Pasted image 20221203191150.png",
     "HackTheBox/Starting Point/Untitled 1.md",
     "HackTheBox/Starting Point",
     "HackTheBox",
@@ -209,7 +185,6 @@
     "TryHackMe/Network Exploitation Basics/NMap/Task 4 - Overview.md",
     "TryHackMe/Advent Of Cyber 22/Task 19 - Web Application.md",
     "TryHackMe/Advent Of Cyber 22/Task 20 - Secure Coding - Input Validation.md",
-    "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection and prepared statments.md",
-    "TryHackMe/Advent Of Cyber 22/Task 22 - SQL Filtering.md"
+    "TryHackMe/Advent Of Cyber 22/Task 21 - Sql injection and prepared statments.md"
   ]
 }
