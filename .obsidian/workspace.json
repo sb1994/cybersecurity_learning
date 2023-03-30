@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "747779221f4b848b",
+            "id": "eaabb574cec25850",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Starting Point/Funnel -.md",
+                "file": "HackTheBox/Starting Point/Pennyworth -.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vsftp",
+                "query": "gob",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/Starting Point/Funnel -.md",
+                "file": "HackTheBox/Starting Point/Pennyworth -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HackTheBox/Starting Point/Funnel -.md",
+                "file": "HackTheBox/Starting Point/Pennyworth -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HackTheBox/Starting Point/Funnel -.md"
+                "file": "HackTheBox/Starting Point/Pennyworth -.md"
               }
             }
           }
@@ -160,32 +160,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "747779221f4b848b",
+  "active": "eaabb574cec25850",
   "lastOpenFiles": [
-    "Pasted image 20230329191348.png",
-    "HackTheBox/Starting Point/Fawn - Accesing FTP.md",
-    "HackTheBox/Starting Point/Funnel -.md",
-    "TryHackMe/Network Exploitation Basics/Network Services/Task 9 enumerating FTP.md",
-    "HackTheBox/Starting Point/Crocodile - DIR and Password Brute force.md",
     "HackTheBox/Starting Point/Bike - NMAP, Server Side Template Injection.md",
-    "Pasted image 20230329154315.png",
-    "Pasted image 20230329154031.png",
-    "Pasted image 20230329150057.png",
-    "Pasted image 20230329150028.png",
+    "HackTheBox/Starting Point/Pennyworth -.md",
+    "HackTheBox/Starting Point/Appointment  - SQL Injection.md",
+    "HackTheBox/Starting Point/Funnel -.md",
+    "HackTheBox/assets/Pasted image 20230325132459.png",
+    "HackTheBox/assets/Pasted image 20230325133602.png",
+    "Managing AAD/User and Group Management.md",
+    "HackTheBox/Starting Point/Bike-.md",
+    "HackTheBox/assets/Pasted image 20230329191348.png",
+    "HackTheBox/assets/Pasted image 20230329154315.png",
+    "HackTheBox/assets/Pasted image 20230329154031.png",
+    "HackTheBox/assets/Pasted image 20230329150057.png",
+    "HackTheBox/assets/Pasted image 20230329150028.png",
+    "HackTheBox/Starting Point/Fawn - Accesing FTP.md",
     "HackTheBox/Starting Point/Mongod - Hacking Mongo.md",
     "HackTheBox/Starting Point/Preignition - Dir Brute Forcing And Password Brute Forcing.md",
     "HackTheBox/Starting Point/Responder - Localfile Inclusion and John the Ripper.md",
     "HackTheBox/Starting Point/Sequel - SQL Injection 2.md",
-    "Pasted image 20230325143531.png",
+    "HackTheBox/assets/Pasted image 20230325143531.png",
     "HackTheBox/Starting Point/Explosion - Enter using RDP.md",
     "HackTheBox/Starting Point/Ignition - NMAP, GoBuster, Password Recon(Most Popular 2023).md",
-    "Pasted image 20230325142011.png",
-    "Pasted image 20230325133602.png",
-    "Pasted image 20230325132459.png",
+    "HackTheBox/assets/Pasted image 20230325142011.png",
     "HackTheBox/Starting Point/Included -.md",
     "HackTheBox/assets/Pasted image 20230323204004.png",
-    "HackTheBox/assets/Pasted image 20230323201751.png",
-    "HackTheBox/Starting Point/Appointment  - SQL Injection.md",
+    "HackTheBox/Starting Point/Crocodile - DIR and Password Brute force.md",
     "HackTheBox/Starting Point/Synced -.md",
     "HackTheBox/Starting Point/Redeemer - Redis Database exploitation.md",
     "HackTheBox/assets",
@@ -199,7 +200,6 @@
     "TryHackMe/Network Exploitation Basics/NMap/Task 3 - NMap Switches.md",
     "TryHackMe/Advent Of Cyber 22/Task 9 - Port scanning.md",
     "TryHackMe/Advent Of Cyber 22/Task 8  - OSINT.md",
-    "TryHackMe/Network Exploitation Basics/NMap/Task 4 - Overview.md",
-    "TryHackMe/Advent Of Cyber 22/Task 19 - Web Application.md"
+    "TryHackMe/Network Exploitation Basics/NMap/Task 4 - Overview.md"
   ]
 }
