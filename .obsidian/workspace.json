@@ -30,9 +30,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50c406e77b7392d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HackTheBox/Starting Point/Oopsie - Priviliage Escalation, Reverse Shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f4ca9a32ed02607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/New post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2ea69ed85b0b676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/HackTheBox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcd464fd863bf9d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HackTheBox/Starting Point/Unified -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -61,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gob",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/Starting Point/Pennyworth -.md",
+                "file": "HackTheBox/Starting Point/Unified -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HackTheBox/Starting Point/Pennyworth -.md",
+                "file": "HackTheBox/Starting Point/Unified -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HackTheBox/Starting Point/Pennyworth -.md"
+                "file": "HackTheBox/Starting Point/Unified -.md"
               }
             }
           }
@@ -155,15 +202,23 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaabb574cec25850",
+  "active": "fcd464fd863bf9d4",
   "lastOpenFiles": [
-    "HackTheBox/Starting Point/Bike - NMAP, Server Side Template Injection.md",
+    "Pasted image 20230406115451.png",
+    "templates/HackTheBox.md",
+    "HackTheBox/Starting Point/Unified -.md",
+    "templates/New post.md",
+    "HackTheBox/Starting Point/Vaccine-.md",
+    "Pasted image 20230404210302.png",
+    "Pasted image 20230404202802.png",
+    "HackTheBox/Starting Point/Oopsie - Priviliage Escalation, Reverse Shell.md",
     "HackTheBox/Starting Point/Pennyworth -.md",
+    "HackTheBox/Starting Point/Bike - NMAP, Server Side Template Injection.md",
     "HackTheBox/Starting Point/Appointment  - SQL Injection.md",
     "HackTheBox/Starting Point/Funnel -.md",
     "HackTheBox/assets/Pasted image 20230325132459.png",
@@ -183,9 +238,7 @@
     "HackTheBox/assets/Pasted image 20230325143531.png",
     "HackTheBox/Starting Point/Explosion - Enter using RDP.md",
     "HackTheBox/Starting Point/Ignition - NMAP, GoBuster, Password Recon(Most Popular 2023).md",
-    "HackTheBox/assets/Pasted image 20230325142011.png",
     "HackTheBox/Starting Point/Included -.md",
-    "HackTheBox/assets/Pasted image 20230323204004.png",
     "HackTheBox/Starting Point/Crocodile - DIR and Password Brute force.md",
     "HackTheBox/Starting Point/Synced -.md",
     "HackTheBox/Starting Point/Redeemer - Redis Database exploitation.md",
@@ -193,13 +246,7 @@
     "HackTheBox/Starting Point/Dancing - SMB enumeration.md",
     "SIEM setup/Introduction.md",
     "SIEM setup/V1.1/Database.md",
-    "HackTheBox/Starting Point/Untitled 1.md",
     "HackTheBox/Starting Point",
-    "HackTheBox",
-    "SIEM setup/V1.1/Requirements.md",
-    "TryHackMe/Network Exploitation Basics/NMap/Task 3 - NMap Switches.md",
-    "TryHackMe/Advent Of Cyber 22/Task 9 - Port scanning.md",
-    "TryHackMe/Advent Of Cyber 22/Task 8  - OSINT.md",
-    "TryHackMe/Network Exploitation Basics/NMap/Task 4 - Overview.md"
+    "HackTheBox"
   ]
 }
