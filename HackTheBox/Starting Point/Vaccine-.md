@@ -177,7 +177,22 @@ $
 $ python3 -c 'import pty;pty.spawn("/bin/bash")'
 postgres@vaccine:/var/lib/postgresql/11/main$ 
 
+
+www-data@included:/var$ ^Z
+zsh: suspended  nc -lvnp 1337
+                                        
+stty raw -echo; fg;           
+
+
+
+
+[12]    continued  nc -lvnp 1337
+          export TERM=xterm
+www-data@included:/var$ 
+
 ```
+
+
 ----
 ## Tags
 #Web
