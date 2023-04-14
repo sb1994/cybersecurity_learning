@@ -467,3 +467,4 @@ cat playbook_1.yml
 - Vunribility for Spring framework - https://security.berkeley.edu/news/vulnerability-spring-framework-cve-2022-22965
 - Blog on Implementation - https://www.rapid7.com/blog/post/2022/04/01/metasploit-weekly-wrap-up-155/
 - Privilage escalation with ansible: https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_privilege_escalation.html
+- Reverse shell with script - https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit
